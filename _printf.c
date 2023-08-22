@@ -1,4 +1,5 @@
 #include "main.h"
+int putss(char *c);
 /**
  * _printf - Prints any character
  * @format: Pointer to char
